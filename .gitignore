@@ -1,1 +1,5 @@
 Bin/
+TestRtmpDecoder/obj/
+FluorineFx/obj/
+RtmpDecoder/obj/
+RtmpDecoderUI/obj/

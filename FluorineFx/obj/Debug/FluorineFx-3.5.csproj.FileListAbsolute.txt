@@ -1,7 +1,0 @@
-D:\Onlinetfs\MyProjects\Bin\net\3.5\FluorineFx.dll
-D:\Onlinetfs\MyProjects\Bin\net\3.5\FluorineFx.pdb
-D:\Onlinetfs\MyProjects\RtmpDecoder\FluorineFx\obj\Debug\FluorineFx-3.5.csprojResolveAssemblyReference.cache
-D:\Onlinetfs\MyProjects\RtmpDecoder\FluorineFx\obj\Debug\FluorineFx.Resources.Resource.resources
-D:\Onlinetfs\MyProjects\RtmpDecoder\FluorineFx\obj\Debug\FluorineFx-3.5.csproj.GenerateResource.Cache
-D:\Onlinetfs\MyProjects\RtmpDecoder\FluorineFx\obj\Debug\FluorineFx.dll
-D:\Onlinetfs\MyProjects\RtmpDecoder\FluorineFx\obj\Debug\FluorineFx.pdb
