@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{765CA1C7-F822-4115-9D82-3D09EF5653DD}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		RtmpDecoder.vsmdi = RtmpDecoder.vsmdi
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{554A8584-2ED9-4091-88ED-42B8ABDDC7D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{7E3C3B31-D441-49A5-B13F-3E8D2A04EDA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtmpDecoder", "RtmpDecoder\RtmpDecoder.csproj", "{F12371A1-A400-4A0E-BA4F-0B2C686A5549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluorineFx-3.5", "FluorineFx\FluorineFx-3.5.csproj", "{A9B8375B-579D-4F8A-B00C-F2828DB58F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtmpDecoderUI", "RtmpDecoderUI\RtmpDecoderUI.csproj", "{FF57D397-C2F0-4251-8985-CDFABDC93B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRtmpDecoder", "TestRtmpDecoder\TestRtmpDecoder.csproj", "{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RtmpDecoder.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12371A1-A400-4A0E-BA4F-0B2C686A5549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12371A1-A400-4A0E-BA4F-0B2C686A5549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12371A1-A400-4A0E-BA4F-0B2C686A5549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12371A1-A400-4A0E-BA4F-0B2C686A5549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B8375B-579D-4F8A-B00C-F2828DB58F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B8375B-579D-4F8A-B00C-F2828DB58F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B8375B-579D-4F8A-B00C-F2828DB58F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B8375B-579D-4F8A-B00C-F2828DB58F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF57D397-C2F0-4251-8985-CDFABDC93B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF57D397-C2F0-4251-8985-CDFABDC93B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF57D397-C2F0-4251-8985-CDFABDC93B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF57D397-C2F0-4251-8985-CDFABDC93B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F12371A1-A400-4A0E-BA4F-0B2C686A5549} = {554A8584-2ED9-4091-88ED-42B8ABDDC7D0}
+		{A9B8375B-579D-4F8A-B00C-F2828DB58F3A} = {554A8584-2ED9-4091-88ED-42B8ABDDC7D0}
+		{FF57D397-C2F0-4251-8985-CDFABDC93B24} = {554A8584-2ED9-4091-88ED-42B8ABDDC7D0}
+		{E5A7FD2F-A558-4A8C-824A-C6D844C95CA6} = {7E3C3B31-D441-49A5-B13F-3E8D2A04EDA8}
+	EndGlobalSection
+EndGlobal
